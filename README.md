@@ -1,6 +1,9 @@
 # shoesshop
 
-A new Flutter project.
+This is an online shop app for shoes
+
+
+![img.png](img.png)
 
 ## Getting Started
 
